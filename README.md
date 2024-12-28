@@ -1,4 +1,4 @@
-# Electronics and Communication Systems
+# Electronics and CommunicationS Systems
 
 Individual project for Electronics and Communication Systems exam 
 at <b>Computer Engineering</b> MSc in University of Pisa, year 2022-2023.
