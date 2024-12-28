@@ -1,4 +1,4 @@
-# Electronics and CommunicationS Systems
+# Electronics and Communications Systems
 
 Individual project for Electronics and Communication Systems exam 
 at <b>Computer Engineering</b> MSc in University of Pisa, year 2022-2023.
@@ -8,6 +8,6 @@ at <b>Computer Engineering</b> MSc in University of Pisa, year 2022-2023.
 
 ## Professors and assistants :
 - [Luca Fanucci] : Prof. Electronics Systems
-- [Marco Moretti] : Prof. Communication Systems
+- [Marco Moretti] : Prof. Communications Systems
 - [Pietro Nannipieri]
 - [Pietro Nannipieri]
